@@ -1,2 +1,7 @@
 clase del 14 de julio del 2023
+<<<<<<< HEAD
 estamos adicionando 
+=======
+estamos adicionando
+modificamos por tercera vez
+>>>>>>> ramasecond
